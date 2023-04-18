@@ -1,4 +1,9 @@
 # please never use this
+![Discord](https://img.shields.io/discord/1096149563871613099?style=for-the-badge&label=exploiting%20c)
+![Lines of code](https://img.shields.io/tokei/lines/github/Oderjunkie/python-else?style=for-the-badge)
+![Minimum C version: 99](https://img.shields.io/badge/Minimum%20C%20Version-99-blueviolet?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/Oderjunkie/python-else?style=for-the-badge)
+
 adds the wonderful `else` clause of `for` and `while` from python back to C78
 # why are you reading this example
 ```c
